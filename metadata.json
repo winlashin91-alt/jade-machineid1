@@ -1,0 +1,6 @@
+{
+  "name": "Jade MachineID",
+  "description": "Industrial textile machine identification and maintenance system for Jade Textile Cairo with barcode scanning and offline SQLite database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
